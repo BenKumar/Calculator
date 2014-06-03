@@ -1,0 +1,13 @@
+THE GRAPHER CAN ONLY DO FUNCTIONS
+
+Remember:
+    Exponents- y**x
+    sin, cos, tan, log - log10(x)
+
+Sample Functions:
+    2*x
+    x**2
+    (x**2) + (4*x) + 3
+    4/(x-2)
+    sin(x)
+    3**x
